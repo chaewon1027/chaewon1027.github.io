@@ -20,12 +20,12 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "About"
+  - title: "소개"
+    url: /categories/
+  - title: "연도"
+    url: /posts/
+  - title: "특징"
     url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
   - title: "Sample Collections"
     url: /collection-archive/
   - title: "Terms &amp; Privacy Policy"
